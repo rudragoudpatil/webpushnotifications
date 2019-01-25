@@ -1,0 +1,21 @@
+{
+  "name": "Realtime Web Push Demo",
+  "short_name": "Web Push Demo",
+  "gcm_sender_id": "103953800507",
+  "icons": [
+    {
+      "src": "/img/icons/highlow-logo-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icons/highlow-logo-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
